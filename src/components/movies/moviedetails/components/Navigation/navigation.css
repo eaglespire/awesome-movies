@@ -1,0 +1,4 @@
+.bc-icons .breadcrumb-item + .breadcrumb-item::before {
+    content: none; }
+.bc-icons .breadcrumb-item.active {
+    color: #eeeeee; }
